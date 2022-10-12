@@ -1,6 +1,7 @@
 # Metabase-full-app-embed
 Metabase Full App and Metabase Standalone App MVP embedding into React App. Embed Metabase BI Open Source Business Intelligence Tool to React App.
 
+# Getting Started
 ```
 git clone https://github.com/mzaf/metabase-full-app-embed.git
 cd Metabase-full-app-embed
@@ -16,7 +17,7 @@ yarn install
 yarn start
 ```
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
