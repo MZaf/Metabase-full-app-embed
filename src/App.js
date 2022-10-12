@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { sign } from 'jsonwebtoken';
 require('dotenv').config();
 
-class App extends Component {
+class EmbedMetabase extends Component {
   render() {
     const mbSiteUrl = process.env.REACT_APP_SITE_URL
     const mbSecretKey = process.env.REACT_APP_SECRET_KEY
@@ -23,4 +23,4 @@ class App extends Component {
   }
   
 }
-export default App;
+export default EmbedMetabase;
