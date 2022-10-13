@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Metabase Embedding React App",
+  "name": "Metabase Embedding in React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
